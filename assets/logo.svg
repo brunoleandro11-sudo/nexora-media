@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="nexoraLogoTitle">
+  <title id="nexoraLogoTitle">Nexora Media</title>
+  <defs>
+    <linearGradient id="nexoraGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6c8cff" />
+      <stop offset="100%" stop-color="#8f6cff" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="url(#nexoraGradient)" />
+  <!-- Original mark: an angled "N" built from two clipped bars, evoking a
+       film-clip / play cue without reproducing any existing brand. -->
+  <path d="M18 46V18h6.4l13.2 17.6V18H44v28h-6.4L24.4 28.4V46H18z" fill="#0b0d14" />
+  <path d="M40 22.5 47 27v10l-7 4.5V22.5z" fill="#ffffff" opacity="0.92" />
+</svg>
